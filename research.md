@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Research
+heading: Research
 permalink: /research/
 ---
 
-#### RESEARCH 
 FLORIDA INSTITUTE OF TECHNOLOGY  
 Department of Physics and Space Sciences   
 ##### Dr Cs. Palotai  
