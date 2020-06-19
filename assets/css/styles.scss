@@ -1,0 +1,9 @@
+---
+maxwidth: 1112px;
+---
+// Also change the max-width variable in main.scss.
+// Can you find a better solution?
+$maxwidth: {{ page.maxwidth }};
+$mw: $maxwidth / 100;
+
+@import "main";

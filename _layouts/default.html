@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+	{% include head.html %}
+</head>
+<body>
+	<div id="headerimg">
+		<img id="headerrawimg" src="/assets/images/Header.png">
+
+		<h1 id='headline'>
+		<a href='/'>
+		{{ site.billboardText }}
+		</a>
+		</h1>
+	</div>
+	<header>
+		{% include navigation.html %}
+	</header>
+	<div id="main">
+		<div id="leftsidebar" class="sidebar">
+		</div>
+		<div id="content">
+		{% unless page.heading == "" %}
+			<h1>{{ page.heading }}</h1>
+		{% endunless %}
+			{{ content }}
+
+			</div>
+		<div id="rightsidebar" class="sidebar">
+		{% if page.url == "/about/" %}
+			<a class="navlink" id="contactbutton" href="/contact/">
+				Contact
+			</a>
+		{% endif %}
+		</div>
+	</div>
+	<footer>
+        <h6>© 2020 Sakhee Bhure</h6>
+    </footer>
+</body>
+
+</html>

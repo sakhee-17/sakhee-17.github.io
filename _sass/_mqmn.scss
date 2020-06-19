@@ -1,0 +1,42 @@
+/* mqmn */
+
+@media (min-width: $maxwidth) {
+	body {
+		width: 100 * $mw;
+		max-width: $maxwidth;
+		background-size: auto, 3.7 * $mw;
+	}
+	#headline {
+		top: 4 * $mw;
+		margin: 0 0 0 1 * $mw;
+		font-size: 3 * $mw;
+		letter-spacing: 10px;
+	}
+	nav menu {
+  		grid-template-columns: 12.4 * $mw 12.1 * $mw 12.3 * $mw 12.7 * $mw 12.7 * $mw 12.3 * $mw 5.4 * $mw 8.8 * $mw;
+		margin: 0px;
+		margin-left: 6.5 * $mw;
+		padding: 0px;
+		top: -5.18 * $mw;
+		li {
+		@each $id, $sizes in $navlinkconf {
+		#navlink-#{$id}{
+			width: nth($sizes, 1) * $mw;
+			height: nth($sizes, 2) * $mw;
+			margin-top: nth($sizes, 3) * $mw;
+			}
+			}
+		}
+		
+	}
+	#main {
+		margin-top: 16.8 * $mw;
+	}
+	#contactbutton {
+		margin: 47 * $mw 0px 0px 4.6 * $mw;
+	}
+	
+	#contactbutton {
+		margin: 47 * $mw 0px 0px 4.6 * $mw;
+	}
+}

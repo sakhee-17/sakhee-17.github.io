@@ -1,0 +1,55 @@
+---
+maxwidth: 1112px
+---
+$maxwidth: {{ page.maxwidth }};
+$mw: $maxwidth/100;
+
+$navlinkconf: ('home':(9.4,3.5,0.6),'about':(9.2,3.6,0.6),'cv':(9.4,3.5,0.8),'research':(11,3.3,0.8),'writing':(9.7,3.5,0.6),'reslife':(10.3,3.2,0.7),'teaching':(3.5,3.3,0.7),'art':(8.5,3.2,0.9));
+{% assign gridcols = '12.4 12.1 12.3 12.7 12.7 12.3 5.4 8.8' | split: ' ' %}
+
+nav {
+	position: relative;
+	menu {
+		list-style-type: none;
+		display: grid;
+		grid-template-columns:{% for i in gridcols %}{{ i }}vw {% endfor %};
+		align-items: center;
+		margin: 0px;
+		margin-left: 6.5vw;
+		position: absolute;
+		top: -5.18vw;
+		padding: 0px;
+		height: 5vw;
+		max-height: 5 * $mw;
+	}
+	li {
+		list-style-type: none;
+		height: 5vw;
+		a {
+			margin-left: 0px;
+			transition: background-color 0.3s ease-out  0s;
+		}
+		@each $id, $sizes in $navlinkconf {
+		#navlink-#{$id}{
+			width: nth($sizes, 1) * 1vw;
+			height: nth($sizes, 2) * 1vw;
+			margin-top: nth($sizes, 3) * 1vw;
+		}
+	}
+	}
+}
+
+.navlink {
+	display: block;
+	color: #00000000;
+	background-color: #00000000;
+	&.currenthighlight{
+		background-color: #6bcbc724;
+	}
+	&:hover {
+		color: #00000000;
+		background-color: #efda9529;
+	}
+}
+/* Media query about min-width */
+@import "mqmn"

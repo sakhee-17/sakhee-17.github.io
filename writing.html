@@ -1,0 +1,45 @@
+---
+layout: default
+title: Writing
+heading: Science Writing
+permalink: /writing/
+---
+<section id='ssarticles'>
+<ul class='postlist'>
+	{% for post in site.posts %}
+	<li class='post'>
+	<article>
+		<a href="{{ post.url }}">
+		<h4>{{ post.title }}</h4>
+		</a>
+		<h6 class='date'>{{ post.date | date: '%B %d, %Y' | upcase }}</h6>
+		<div class='blurb'>
+		<p>
+		{{ post.excerpt | strip_html | truncate: 320 }}
+		 <a class="chevron" href="{{ post.url }}">⟫</a>
+		 </p>
+		 </div>
+		 </article>
+	</li>
+	{% endfor %}
+</ul>
+</section>
+<section id='wwwarticles'>
+<ul class='postlist'>
+	{% for post in site.data.writing %}
+	<li class='post'>
+	<article>
+		<a href="{{ post.url }}" class='external' target="_blank">
+			<h4>{{ post.name }}</h4>
+		</a>
+		<h6 class='date'>{{ post.date | date: '%B %d, %Y' | upcase }}</h6>
+		<div class='blurb'>
+		<p>
+		{{ post.description | truncate: 320 }}
+		 <a class="chevron" href="{{ post.url }}">⟫</a>
+		 </p>
+	 </article>
+	</li>
+	{% endfor %}
+</ul>
+</section>

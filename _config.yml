@@ -1,0 +1,10 @@
+billboardText: "SAKHEE BHURE"
+title: Sakhee Bhure
+tagline: sakhee.space
+twitter:
+  username: tinygreenstarr
+url: https://sakhee.space/
+plugins:
+ - jekyll-feed
+ - jekyll-sitemap
+ - jekyll-seo-tag

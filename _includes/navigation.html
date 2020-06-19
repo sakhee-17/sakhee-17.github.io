@@ -1,0 +1,11 @@
+<nav>
+			<menu>
+				{% for item in site.data.navigation %}
+				<li>
+					<a href="{{ item.link }}" id='navlink-{{ item.name | downcase }}' class='navlink {% if page.url == item.link %}currenthighlight{% endif %}'>
+						{{ item.name }}
+					</a>
+				</li>
+				{% endfor %}
+			</menu>
+</nav>

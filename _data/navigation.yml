@@ -1,0 +1,16 @@
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: CV
+  link: /cv/
+- name: Research
+  link: /research/
+- name: Writing
+  link: /writing/
+- name: Reslife
+  link: /reslife/
+- name: Teaching
+  link: /teaching/
+- name: Art
+  link: /art/
