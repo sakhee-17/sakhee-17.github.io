@@ -4,6 +4,8 @@ tagline: sakhee.space
 twitter:
   username: tinygreenstarr
 url: https://sakhee.space/
+sass:
+  style: compressed
 plugins:
  - jekyll-feed
  - jekyll-sitemap
