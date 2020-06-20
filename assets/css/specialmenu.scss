@@ -50,6 +50,9 @@ nav {
 		color: #00000000;
 		background-color: #efda9529;
 	}
+	&::selection{
+	color: #00000000;
+	}
 }
 /* Media query about min-width */
 @import "mqmn"
