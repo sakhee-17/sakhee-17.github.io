@@ -85,7 +85,7 @@ I was selected in the Visiting Student Research Program (VSRP) 2016. I analyzed 
 #### WORK
 ##### Science Writer The Wire, India 
 ###### June 2019 - present 
-I write science articles for The Wire on a freelance basis. FLORIDA INSTITUTE OF TECHNOLOGY
+I write science articles for The Wire on a freelance basis.
 
 ##### Resident Assistant, Department of Residence Life 
 ###### August 2015 - May 2018 
