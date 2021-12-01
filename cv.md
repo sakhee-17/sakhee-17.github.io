@@ -4,6 +4,8 @@ title: cv
 permalink: /cv/
 heading: SAKHEE BHURE
 ---
+
+##### pdf of cv: (link, pdf), add (date updated: )
 ##### INTERN: Science Activity Center, Indian Institute for Science Education and Research (IISER), Pune
 ###### February 2020 - present
 As part of the Tata Tech Project, I am assisting with writing lesson plans and reviewing lesson plan video scripts that are being created. I am writing concise explanations of concepts applied in the various science toys / activities that are developed or demonstrated at the Center as part of their educational and outreach efforts.

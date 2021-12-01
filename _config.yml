@@ -1,8 +1,10 @@
-billboardText: "SAKHEE BHURE Hope Jahren quote"
+billboardText: "SAKHEE BHURE"  
+quoteText: "Love and learning are similar in that they can never be wasted."
+quoteAuthor: " - Hope Jahren"
 title: Sakhee Bhure
 tagline: sakhee.space
 twitter:
-  username: tinygreenstarr
+  username: sakheebhure
 url: https://sakhee.space/
 sass:
   style: compressed

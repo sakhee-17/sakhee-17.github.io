@@ -3,27 +3,27 @@ layout: default
 title: home
 heading:
 ---
-# Blah blah blah!
-> add scaling K2 info
+
+
+# Hello there! 
+
+I am a post-bac volunteer researcher working with Dr. Jessie Christiansen (Caltech/IPAC) on the Scaling K2 project and a prospective graduate school applicant for Fall 2022. I have experience in and am passionate about science education, active learning in STEM, and science writing. Feel free to click on any of the tabs above to learn more or contact me here: [sbhure2013@my.fit.edu](mailto:sbhure2013@my.fit.edu){:target="_blank"}
+
 
 > update cv
 
 > link to that cv
 
-> update awards - I think we were on the Dean's List for Spring 2017 too
 
-> add press panel link when that becomes available
+<img src="/assets/images/sakhee.jpg" alt="sakhee-headshot" class="narrowcenterimage">
 
-> change photo
-
-> add quote by Hope Jahren - "Love and learning are similar, in that both cannot be wasted."
-
-> ads links for conference presentations? too much?
-
-> master link for the wire, and ecurrent,
-
-> residence life summary - two three lines 
 
 > art - remove? or add doodles and cards? - add octopus and say something like coming soon
 
+> add cards from previous years
+
+
+<!--
 ![Sunrise on University Blvd](/assets/images/SunriseUnivBlvd.jpeg)
+![sakhee-headshot](/assets/images/sakhee.jpg)
+-->
