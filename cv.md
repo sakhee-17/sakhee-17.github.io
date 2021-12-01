@@ -4,9 +4,7 @@ title: cv
 permalink: /cv/
 heading: SAKHEE BHURE
 ---
-<p>
-Here's a pdf of my <a
-href="_site/SakheeBhureCV.pdf" target="_blank">cv</a>. (last updated: December 2021)</p>
+Here's a pdf of my [cv](assets/pdf/SakheeBhureCV.pdf){:target="_blank"}. (last updated: December 2021)
 
 #### EDUCATION
 #### FLORIDA INSTITUTE OF TECHNOLOGY  
