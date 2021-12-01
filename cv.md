@@ -4,50 +4,51 @@ title: cv
 permalink: /cv/
 heading: SAKHEE BHURE
 ---
-
-##### pdf of cv: (link, pdf), add (date updated: )
-##### INTERN: Science Activity Center, Indian Institute for Science Education and Research (IISER), Pune
-###### February 2020 - present
-As part of the Tata Tech Project, I am assisting with writing lesson plans and reviewing lesson plan video scripts that are being created. I am writing concise explanations of concepts applied in the various science toys / activities that are developed or demonstrated at the Center as part of their educational and outreach efforts.
+<p>
+Here's a pdf of my <a
+href="_site/SakheeBhureCV.pdf" target="_blank">cv</a>. (last updated: December 2021)</p>
 
 #### EDUCATION
-##### FLORIDA INSTITUTE OF TECHNOLOGY  
-###### August 2014 - May 2017  
+#### FLORIDA INSTITUTE OF TECHNOLOGY  
+#### August 2014 - May 2017  
 BS Astronomy and Astrophysics  
 GPA: 3.77/4.0  
 
 ****
 
 #### RESEARCH  
-FLORIDA INSTITUTE OF TECHNOLOGY  
+Dr. Jessie Christiansen  
+October 2020 - present
+
+**FLORIDA INSTITUTE OF TECHNOLOGY**  
 Department of Physics and Space Sciences   
-##### Dr Cs. Palotai 
-###### August 2017 - December 2017
 
-I worked on simulations of the Great White Spot on Neptune using the EPIC model. I delivered a poster presentation, Studies of Dark Spots and Their Companion Clouds on the Ice Giant Planets, at the 49th Meeting of the Division of Planetary Sciences in October 2017.
-##### Dr D. Ragozzine  
-###### March 2015 - May 2017 
+Dr. Csaba Palotai  
+August 2017 - December 2017
 
-I developed a code for the normalization of planetary radii and orbital periods, in order to understand the architectures of exoplanet systems. I delivered an oral presentation, Investigating Normalized Architectures of Multi-Transiting Exoplanet Systems, at the 48th Meeting of the Division of Planetary Sciences in October 2016.
-##### Dr C. Neish  
-###### August 2014 - May 2015 
+Dr. Darin Ragozzine  
+March 2015 - May 2017 
 
-I processed images and observations of lunar impact crater properties using datasets obtained by the Lunar Reconnaissance Orbiter and the Arecibo Observatory in Puerto Rico and analyzed impact melt properties using Qview.
+Dr. Catherine Neish  
+August 2014 - May 2015 
 
-#### COMPUTATIONAL SKILLS
-I have coding experience in Julia, Python, C++, and am familiar with the Unix environment.
+
+#### PUBLICATIONS
+
+Zink, J.K., Hardegree-Ullman, K.K., Christiansen, J.L., **Bhure, S.**, Adkins, B.D., Petigura, E.A., Dressing, C.D., Crossfield, I.J., & Schlieder, J.E. (2021). 
+<a href="https://ui.adsabs.harvard.edu/abs/2021AJ....162..259Z/abstract">Scaling K2. IV. A Uniform Planet Sample for Campaigns 1 - 8 and 10 - 18</a>. The Astronomical Journal, 162.
+
+(in prep) Christiansen, J. L., **Bhure S. S.**, Zink, J. K., Hardegree-Ullman, K. K. et al. Scaling K2. V. Statistical Validation of 60 New Planets From K2 Campaigns 0-18
+
 
 ****
 
 #### TEACHING
-##### INSTRUCTOR: ASSET Summer Program 2019, Education Initiatives, India 
-###### April 2019 - July 2019 
-I developed and taught a three-week, introductory, hands-on astrophysics course titled *Shooting for the Stars: Astrophysics and Astronomy* for 22 students in grades 6, 7, 8, and 9 at the ASSET Summer Program in May 2019.
+## INSTRUCTOR: ASSET Summer Program 2019, Education Initiatives, India 
+### April 2019 - July 2019 
 
-##### Graduate Teaching Assistant Department of Physics and Space Sciences 
-###### August 2017 - December 2017 
-I taught PHY 2091: *Physics Laboratory I (Mechanics)* to 43 students at Florida Institute of Technology. I received overwhelmingly positive reviews from mid-and end-of-semester course evaluations.
-
+## Graduate Teaching Assistant Department of Physics and Space Sciences 
+### August 2017 - December 2017 
 ****
 
 #### CONFERENCES AND WORKSHOPS
@@ -65,6 +66,7 @@ Introduction to Radio Astronomy, Interferometry, Preparing Research Proposals fo
 ##### American Physical Society's 10th Annual Conference for Undergraduate Women in Physics (CUWIP 2015), University of Mississippi, *January 2015*
 
 ****
+
 
 #### INTERNSHIPS
 ##### Science Activity Center, Indian Institute for Science Education and Research (IISER), Pune
@@ -85,18 +87,24 @@ I was selected in the Visiting Student Research Program (VSRP) 2016. I analyzed 
 ****
 
 #### WORK
+
+#### INTERN: Science Activity Center, Indian Institute for Science Education and Research (IISER), Pune
+##### February 2020 - March 2021
+
+Science Writing: I worked on the writing and editing of the description or explanation of the scientific concepts applied in each activity or its explanatory video developed by SAC in order to convey the science accurately as well as to generate curiosity and encourage further exploration about that concept.
+
+Curriculum Development: I worked on a project funded by Tata Technologies to train local teachers in incorporating hands-on activities in their classrooms. As part of the core team, I participated in the development of activity-based lesson plans covering the different science and mathematics topics introduced and studied in grades 6-10
+
+
 ##### Science Writer The Wire, India 
 ###### June 2019 - present 
-I write science articles for The Wire on a freelance basis.
 
 ##### Resident Assistant, Department of Residence Life 
 ###### August 2015 - May 2018 
-I worked as a peer leader or Resident Assistant (RA) in the on-campus residence halls at Florida Institute of Technology. I was responsible for safety, security, and discipline in my residence area. I organized and promoted socially, culturally, and educationally enriching programs and events for students, as well as evaluated and interviewed candidates applying to be RAs. As part of the Residence Life Sustainability Committee (RLSC), I worked on projects aiming for maximum sustainability on campus. I was awarded the Resident Assistant of the Year Award for the year 2017-2018. A more detailed portfolio of my work as an RA can be found in the ResLife section.
 
-##### Student Blogger Office of Marketing & Communications August 
+
+##### <a href="https://news.fit.edu/author/sbhure2013/">Student Blogger</a> Office of Marketing & Communications August 
 ###### 2015 - December 2016 
-I wrote blogs for Florida Institute of Technology?s digital magazine in the Panther Voices section.
-Florida Tech adAstra: Sakhee Bhure
 
 ****
 

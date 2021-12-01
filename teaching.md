@@ -14,6 +14,17 @@ I taught PHY 2091: *Physics Laboratory I (Mechanics)* to 43 students at Florida 
 
 ****
 
+##### Intern, Science Activity Center (SAC), Indian Institute for Science Education and Research (IISER), Pune
+###### February 2020 - July 2021
+
+**Science Writing:** I worked on the writing and editing of the description or explanation of the scientific concepts applied in each activity or its explanatory video developed by SAC in order to convey the science accurately as well as to generate curiosity and encourage further exploration about that concept. These activities or videos, primarily aimed towards young children, have been uploaded on the SAC website or YouTube channel, and published in scientific and educational publications. A handbook of 50 of these activities is also to be published.  
+**Curriculum Development:** I worked on a project funded by Tata Technologies to train local teachers in incorporating hands-on activities in their classrooms. As part of the core team, I participated in the development of activity-based lesson plans covering the different science and mathematics topics introduced and studied in grades 6-10 and led the team working on the biology lesson plans.
+I also proofread and formatted each one of the 101 text lesson plans and reviewed the 100 videos developed as part of this project.  
+Additionally, I worked on optimizing the communication and collaboration within teams and subgroups working on different aspects of this project.  
+I assisted with the production of the "Next-Gen Science Camps" video series by organizing, sorting, and filtering questions received from audience for the Question and Answer session conducted in the one part of each video, and moderating the live chat and answering questions asked therein during the live stream. I also reviewed each session and provide feedback in order to enhance both, the quality of content presented in the video and audience engagement during its presentation.
+
+****
+
 #### TEACHING (VOLUNTEER WORK) 
 ##### Akanksha Foundation, Pune 
 ###### July 2019 - March 2020 

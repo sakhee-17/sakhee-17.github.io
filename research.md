@@ -5,23 +5,36 @@ heading: Research
 permalink: /research/
 ---
 
-FLORIDA INSTITUTE OF TECHNOLOGY  
-Department of Physics and Space Sciences   
-##### Dr Cs. Palotai  
-###### August 2017 - December 2017
+**Dr. Jessie Christiansen**  
+October 2020 - present  
+I am working on statistically validating exoplanet candidates detected from K2 data by the EDI-Vetter pipeline (Zink et al 2021) using the VESPA package (Morton 2012) as part of the Scaling K2 project. A paper describing our work is to be submitted by mid-December. 
 
+### FLORIDA INSTITUTE OF TECHNOLOGY  
+#### Department of Physics and Space Sciences   
+**Dr Cs. Palotai**  
+August 2017 - December 2017
 I worked on simulations of the Great White Spot on Neptune using the EPIC model. I delivered a poster presentation, Studies of Dark Spots and Their Companion Clouds on the Ice Giant Planets, at the 49th Meeting of the Division of Planetary Sciences in October 2017.
-##### Dr D. Ragozzine  
-###### March 2015 - May 2017 
 
-I developed a code for the normalization of planetary radii and orbital periods, in order to understand the architectures of exoplanet systems. I delivered an oral presentation, Investigating Normalized Architectures of Multi-Transiting Exoplanet Systems, at the 48th Meeting of the Division of Planetary Sciences in October 2016.
-##### Dr C. Neish  
-###### August 2014 - May 2015 
+**Dr D. Ragozzine**  
+March 2015 - May 2017  
+I developed a code for the normalization of planetary radii and orbital periods, in order to understand the architectures of exoplanet systems. I delivered an oral presentation, Investigating Normalized Architectures of Multi-Transiting Exoplanet Systems, at the 48th Meeting of the Division of Planetary Sciences in October 2016.  
+
+**Dr C. Neish**  
+August 2014 - May 2015 
 
 I processed images and observations of lunar impact crater properties using datasets obtained by the Lunar Reconnaissance Orbiter and the Arecibo Observatory in Puerto Rico and analyzed impact melt properties using Qview.
 
 #### COMPUTATIONAL SKILLS
 I have coding experience in Julia, Python, C++, and am familiar with the Unix environment.
+
+****
+
+#### PUBLICATIONS  <a href="https://ui.adsabs.harvard.edu/search/q=%20author%3A%22bhure%2C%20sakhee%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">ADS</a>
+
+Zink, J.K., Hardegree-Ullman, K.K., Christiansen, J.L., **Bhure, S.**, Adkins, B.D., Petigura, E.A., Dressing, C.D., Crossfield, I.J., & Schlieder, J.E. (2021). 
+<a href="https://ui.adsabs.harvard.edu/abs/2021AJ....162..259Z/abstract" target="_blank">Scaling K2. IV. A Uniform Planet Sample for Campaigns 1 - 8 and 10 - 18</a>. The Astronomical Journal, 162.
+
+(in prep) Christiansen, J. L., **Bhure S. S.**, Zink, J. K., Hardegree-Ullman, K. K. et al. Scaling K2. V. Statistical Validation of 60 New Planets From K2 Campaigns 0-18
 
 ****
 

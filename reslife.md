@@ -5,9 +5,8 @@ permalink: /reslife/
 heading: Resident Assistant
 ---
 
-RA at the Department of Residence Life, Florida Institute of Technology | August 2015 - May 2018
-RESIDENT ASSISTANT OF THE YEAR Award | for the academic year 2017 - 2018 
-
+##### RA at the Department of Residence Life, Florida Institute of Technology | August 2015 - May 2018
+##### RESIDENT ASSISTANT OF THE YEAR Award | for the academic year 2017 - 2018 
 
 I worked as a peer leader or Resident Assistant (RA) in the on-campus residence halls at Florida Institute of Technology. 
 The purpose of this position is to foster a living-learning environment that is conducive to studying as well as social interaction and individual development for all students. 
