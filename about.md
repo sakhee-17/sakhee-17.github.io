@@ -10,4 +10,6 @@ After graduation, I have designed and conducted an [introductory astrophysics co
 
 I then worked at the [Student Activity Center](http://www.iiserpune.ac.in/outreach/science-activity-centre/){:target="_blank"} (SAC) at IISER Pune; where I wrote descriptions and explanations of the concepts applied in the activities and science toys that are being developed for use by educators and students throughout the country. These are to be published in a handbook and are also available on the IISER Pune SAC website and SAC YouTube channel. I was also part of the Tata Technologies' Step for STEM project that trained local school teachers to use hands-on and active learning techniques in their classrooms through workshops. As part of the project, I helped develop activity-based text lesson plans and corresponding instructional videos based on the standard school curriculum for use by teachers throughout the country.
 
+I am currently working with [Dr. Jessie Christiansen](http://web.ipac.caltech.edu/staff/christia/index.html).
+
 More details about all these projects can be found in my CV [here](\cv\).

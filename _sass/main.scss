@@ -56,7 +56,7 @@ body {
 }
 
 #headline {
-	display: cblock;
+	display: block;
 	margin: 0 0 0 2vw;
 	top: 1vw;
 	font-size: 1vw;
@@ -101,15 +101,18 @@ body {
 }
 
 h1 {
-	line-height: 2.5em;
-//	font-family: "Yanone Kaffeesatz"; //"Noteworthy", "Bradley Hand", "Chalkboard", "Chalkduster", "Signpainter", "Marker Felt", "Helvetica Neue";
-	font-weight: 300;
-	font-size: 30px;
 	//letter-spacing: px;
 	//text-decoration: none;
 	color: var(--pen-colour);
 	padding: 2px;
 	margin: 0;
+}
+
+h1 {
+	line-height: 2.5em;
+//	font-family: "Yanone Kaffeesatz"; //"Noteworthy", "Bradley Hand", "Chalkboard", "Chalkduster", "Signpainter", "Marker Felt", "Helvetica Neue";
+	font-weight: 300;
+	font-size: 30px;	
 }
 
 #main {
