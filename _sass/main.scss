@@ -54,7 +54,10 @@ body {
 	position: absolute;
 	top: 0;
 }
-
+#quote > p {
+	float: right;
+	font-size: 2vw;
+}
 #headline {
 	display: block;
 	margin: 0 0 0 2vw;
