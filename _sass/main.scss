@@ -1,7 +1,7 @@
 $papercolour: rgb(250, 250, 255);
 :root {
-//	--pen-colour: #005493;
-//	--pen-colour: #505050;
+	//	--pen-colour: #005493;
+	//	--pen-colour: #505050;
 	--pen-colour: #797979;
 	--pink-colour: #ea839e;
 	--blue-colour: #4590cf;
@@ -42,13 +42,13 @@ body {
 	width: 100vw;
 	max-width: $maxwidth;
 	background: url("/assets/images/JustPlops.png") repeat-y,
-		url("/assets/images/Dot.png") 3.7vw;
+	url("/assets/images/Dot.png") 3.7vw;
 	font-family: 'Yanone Kaffeesatz', 'Helvetica Neue', sans-serif;
 	font-weight: lighter;
 }
 
 #headerimg > *{
-//	content: url("/assets/images/Header.png");
+	//	content: url("/assets/images/Header.png");
 	width: 100vw;
 	max-width: 100 * $mw;
 	position: absolute;
