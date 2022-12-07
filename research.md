@@ -31,11 +31,11 @@ I have coding experience in Julia, Python, C++, and am familiar with the Unix en
 
 ****
 
-#### PUBLICATIONS  <a href="https://ui.adsabs.harvard.edu/search/q=%20author%3A%22bhure%2C%20sakhee%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">ADS</a>
+#### PUBLICATIONS  <a href="https://ui.adsabs.harvard.edu/search/q=\%20author\%3A\%22bhure\%2C\%20sakhee\%22\&sort=date\%20desc\%2C\%20bibcode\%20desc\&p_=0" target="_blank">ADS</a>
 
 (accepted) Christiansen, J. L., **Bhure, S.**, Zink, J. K., Hardegree-Ullman, K. K. et al. <a href="https://arxiv.org/abs/2203.02087" target="_blank">Scaling K2. V. Statistical Validation of 60 New Planets From K2 Campaigns 0-18</a>.
 
-Zink, J.K., Hardegree-Ullman, K.K., Christiansen, J.L., **Bhure, S.**, Adkins, B.D., Petigura, E.A., Dressing, C.D., Crossfield, I.J., & Schlieder, J.E. (2021). 
+Zink, J.K., Hardegree-Ullman, K.K., Christiansen, J.L., **Bhure, S.**, Adkins, B.D., Petigura, E.A., Dressing, C.D., Crossfield, I.J., \& Schlieder, J.E. (2021). 
 <a href="https://ui.adsabs.harvard.edu/abs/2021AJ....162..259Z/abstract" target="_blank">Scaling K2. IV. A Uniform Planet Sample for Campaigns 1 - 8 and 10 - 18</a>. The Astronomical Journal, 162.
 
 
