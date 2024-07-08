@@ -19,7 +19,7 @@ permalink: /research/
 [**Dr Rob Wittenmyer**](), [**Dr Duncan Wright**]()
 July 2023 - present
 
-I am working on a project funded by (grant) conducting photometric follow-up (SG1?) of TESS targets using the MINERVA-Australis(link) array. (from thesis proposal and 
+I am working on a PhD project funded by an Australian Research Council grant for conducting high-precision photometric follow-up (SG1) of TESS targets using the Minerva-Australis array.
 
 #### [NASA Exoplanet Science Institute Caltech/IPAC]()
 [**Dr. Jessie Christiansen**](https://www.ipac.caltech.edu/science/staff/jessie-christiansen)
