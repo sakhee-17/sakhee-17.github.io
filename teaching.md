@@ -6,7 +6,7 @@ heading: SAKHEE BHURE
 ---
 ##### INSTRUCTOR: ASSET Summer Program 2019, Education Initiatives, India 
 ###### April 2019 - July 2019 
-I developed and taught a three-week, introductory, hands-on astrophysics course titled *Shooting for the Stars: Astrophysics and Astronomy* for 22 students in grades 6, 7, 8, and 9 at the ASSET Summer Program in May 2019.
+I developed and taught a three-week, introductory, hands-on astrophysics course titled [*Shooting for the Stars: Astrophysics and Astronomy*](https://www.youtube.com/watch?v=ccy1XVWfThU&list=PL6EJV4-csFcfqxcSSzIUWfnbxWDbAwf4w){:target="_blank"} for 22 students in grades 6, 7, 8, and 9 at the ASSET Summer Program in May 2019.
 
 ##### Graduate Teaching Assistant Department of Physics and Space Sciences 
 ###### August 2017 - December 2017 
