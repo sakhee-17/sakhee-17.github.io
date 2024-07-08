@@ -45,5 +45,3 @@ I processed images and observations of lunar impact crater properties using data
 
 #### COMPUTATIONAL SKILLS
 I have coding experience in Julia, Python, C++, and am familiar with the Unix environment.
-
-****

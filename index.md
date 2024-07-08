@@ -11,4 +11,7 @@ I am a PhD student at the University of Southern Queensland working on the preci
 
 <img src="/assets/images/sakhee.jpg" alt="sakhee-headshot" class="narrowcenterimage">
 
-[Last updated: March 2024]
+<!--
+![Sunrise on University Blvd](/assets/images/SunriseUnivBlvd.jpeg)
+![sakhee-headshot](/assets/images/sakhee.jpg)
+-->

@@ -11,3 +11,4 @@ I graduated from Florida Institute of Technology with a Bachelor of Science degr
 I have worked on [curriculum design](https://www.youtube.com/watch?v=ccy1XVWfThU&list=PL6EJV4-csFcfqxcSSzIUWfnbxWDbAwf4w){:target="_blank"}, [science writing](http://science.thewire.in/author/sbhure/){:target="_blank"}, and [teacher training](http://https://www.iiserpune.ac.in/engage/outreach-and-training/science-activity-centre/){:target="_blank"}. 
 
 Please feel free to [reach out](mailto:sakhee.bhure@unisq.edu.au) for more details about any of these or if you would like to collaborate on similar projects!
+
